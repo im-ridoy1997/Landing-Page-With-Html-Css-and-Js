@@ -33,3 +33,51 @@
     height: 50vh;
 }
 
+.top-right img{
+    height: 350px;
+    padding: 40px 180px;
+}
+
+.logo{
+    font-size: 1.6rem;
+}
+
+.section2{
+    padding: 0 65px;
+}
+
+.section2 h1{
+    font-size: 2.5rem;
+}
+
+.section2 p{
+    padding: 0px 8vw;
+    text-align: center;
+}
+
+.box{
+    margin: 12px 22px;
+    min-width: 20vw;
+    border: 2px solid black;
+    text-align: center;
+    padding: 8px 0px;
+    border-radius: 8px;
+}
+
+.box ul{
+    list-style: none;
+}
+
+.box li{
+    margin: 12px 2px;
+}
+
+.box h2{
+    font-size: 2rem;
+    padding: 15px 0px;
+}
+
+.highlighted{
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
