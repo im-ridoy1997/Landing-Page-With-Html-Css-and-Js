@@ -19,10 +19,6 @@
     margin: 0 12px;
 }
 
-.section1{
-    
-}
-
 .top-left{
     width: 50%;
     height: 50vh;
@@ -43,7 +39,7 @@
 }
 
 .section2{
-    padding: 0 65px;
+    padding: 70px;
 }
 
 .section2 h1{
@@ -58,7 +54,7 @@
 .box{
     margin: 12px 22px;
     min-width: 20vw;
-    border: 2px solid black;
+    border: 2px solid #dee2e6;
     text-align: center;
     padding: 8px 0px;
     border-radius: 8px;
@@ -80,4 +76,38 @@
 .highlighted{
     font-size: 1.2rem;
     font-weight: bolder;
+}
+
+.plan-table{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section3{
+    padding: 70px;
+}
+.section3 table{
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 140px;
+    border-collapse: collapse;
+}
+
+.section3 table th{
+    width: 23vw;
+    border-bottom: 2px solid #dee2e6;
+    padding: 15px 0;
+}
+
+.section3 table td{
+    border-bottom: 2px solid #dee2e6;
+}
+
+.section3 h1{
+    font-size: 2.5rem;
+}
+
+footer{
+    padding: 15px;
 }
